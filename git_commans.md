@@ -1,5 +1,5 @@
 # Actividad
-###Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
+### Describe que hacen los siguientes comandos de git, escribe su descripcion al frente en una sola linea.
 
 ## git status: 
 ### Muestra el estado actual del repositorio, incluyendo archivos modificados, nuevos y eliminados.
